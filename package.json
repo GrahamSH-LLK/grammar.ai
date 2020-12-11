@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GrahamSH-LLK/grammar.ai/issues"
   },
-  "homepage": "https://github.com/GrahamSH-LLK/grammar.ai#readme"
+  "homepage": "https://github.com/GrahamSH-LLK/grammar.ai#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2"
+  }
 }
